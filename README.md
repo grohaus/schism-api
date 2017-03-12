@@ -22,6 +22,6 @@ Relationship management for the people.
 1.  Hack and make good commits.
 1.  Make a pull request.
 
-## [LICENSE](LICENSE)
+## [LICENSE](LICENSE.md)
 
 [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
