@@ -1,8 +1,10 @@
-schism-api is licensed under GNU GPLv3, and Copyright (C) grohaus. Licensing
-year is by commit date.
+`schism-api` is licensed under [GNU
+GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html), and Copyright (C)
+[grohaus](https://github.com/grohaus/). Licensing year is by commit date.
 
 For commercial use or alternative licensing, or for any other inquiries, please
-contact Jeffrey Horn <jeff@jrhorn.me> or Dan Huddell <dan.huddell@gmail.com>.
+contact [Jeffrey Horn](<jeff@jrhorn.me>) or [Dan
+Huddell](<dan.huddell@gmail.com>).
 
 --------------------------------------------------------------------------------
 
