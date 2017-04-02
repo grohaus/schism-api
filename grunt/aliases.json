@@ -1,0 +1,9 @@
+{
+  "default": ["nag", "test"],
+  "test": ["mochacli:all"],
+  "server": ["shell:server"],
+  "serve": ["server"],
+  "s": ["server"],
+  "make-standard": ["eslint:fix"],
+  "nag": ["eslint:all", "jsonlint:all"]
+}
